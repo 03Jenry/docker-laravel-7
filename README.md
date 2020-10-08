@@ -14,7 +14,7 @@ git clone https://github.com/03Jenry/docker-laravel-7.git
 Move to the folder
 
 ```bash
-cd helloword
+cd docker-laravel-7
 ```
 
 run the start.sh file
