@@ -8,7 +8,7 @@ Laravel 7 con docker
 Clone the repo
 
 ```bash
-git clone https://github.com/03Jenry/helloword.git
+git clone https://github.com/03Jenry/docker-laravel-7.git
 ```
 
 Move to the folder
